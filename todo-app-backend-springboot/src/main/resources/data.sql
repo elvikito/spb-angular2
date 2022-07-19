@@ -1,11 +1,11 @@
 insert into todo(id, username,description,target_date,is_done)
-values(10001, 'admin', 'Learn JPA', sysdate(), false);
+values(10001, 'sandeepx', 'Learn JPA', sysdate(), false);
 
 insert into todo(id, username,description,target_date,is_done)
-values(10002, 'admin', 'Learn Data JPA', sysdate(), false);
+values(10002, 'sandeepx', 'Learn Data JPA', sysdate(), false);
 
 insert into todo(id, username,description,target_date,is_done)
-values(10003, 'admin', 'Learn Microservices', sysdate(), false);
+values(10003, 'sandeepx', 'Learn Microservices', sysdate(), false);
 
 insert into todo(id, username,description,target_date,is_done)
-values(10005, 'admin', 'Learn Karate', sysdate(), false);
+values(10005, 'sandeepx', 'Learn Karate', sysdate(), false);
