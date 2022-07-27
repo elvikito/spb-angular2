@@ -4,3 +4,5 @@ services:
     build: todo-app-backend-springboot/.
     ports:
       - 8080:8080
+    volumes:
+      - ./todo-app-backend-springboot/src:/workspace/app/src
